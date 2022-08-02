@@ -133,6 +133,7 @@ body {
     border-radius: 5px;
     color:#bcc3c7 ;
     text-decoration: none;
+ 
 }
 .background_take {
     background:#f0f0f0 ;
@@ -148,6 +149,9 @@ body {
     /* max-width: fit-content; */
   
   
+}
+.take a { 
+       padding:0.5rem;
 }
 @media (max-width:60rem) {
     .background_container {
